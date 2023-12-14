@@ -35,10 +35,10 @@ If you like this Repo, Please click the :star:
 Link : https://riteshcgiri.netlify.app
 
 <a href="https://awesome-github-readme-profile.netlify.app">
-  <img src="https://github.com/riteshcgiri/to-do-notes/blob/main/public/assets/Screenshot-1.png?raw=true" alt="sample img" />
-  <img src="https://github.com/riteshcgiri/to-do-notes/blob/main/public/assets/Screenshot-2.png?raw=true" alt="sample img" />
-  <img src="https://github.com/riteshcgiri/to-do-notes/blob/main/public/assets/Screenshot-3.png?raw=true" alt="sample img" />
-  <img src="https://github.com/riteshcgiri/to-do-notes/blob/main/public/assets/Screenshot-4.png?raw=true" alt="sample img" />
+  <img src="https://github.com/riteshcgiri/to-do-notes/blob/main/Screenshot-1.png?raw=true" alt="sample img" />
+  <img src="https://github.com/riteshcgiri/to-do-notes/blob/main/Screenshot-2.png?raw=true" alt="sample img" />
+  <img src="https://github.com/riteshcgiri/to-do-notes/blob/main/Screenshot-3.png?raw=true" alt="sample img" />
+  <img src="https://github.com/riteshcgiri/to-do-notes/blob/main/Screenshot-4.png?raw=true" alt="sample img" />
   </a>
 
 
