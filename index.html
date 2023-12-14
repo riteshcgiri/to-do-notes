@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do App - HomePage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">My Do's</h1>
+        <p class="slogan">Create your Own Work List</p>
+        <a class="logIn" href="#">Sign In</a>
+    </div>
+
+    <!--  -->
+    
+    <div class="creator-box">
+        <header class="header">
+            <h2 class="logo">My Do's</h2>
+            <nav class="nav">
+                <ul>
+                    <li><a href="#">Feedback</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Account</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="main">
+            <h2 class="main-title">Create</h2>
+            <div class="card-box">
+                <div class="card create-card">
+                    <svg class="create-svg" viewBox="0 0 448 512">
+                        <path d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32V224H48c-17.7 0-32 14.3-32 32s14.3 32 32 32H192V432c0 17.7 14.3 32 32 32s32-14.3 32-32V288H400c17.7 0 32-14.3 32-32s-14.3-32-32-32H256V80z"/>
+                    </svg>
+                    <span>Create New</span>
+                </div>
+                
+            </div>
+
+            <!-- form start here -->
+            <div class="form-box">
+                <form class="todo-form">
+                    <span class="close-btn">
+                        <svg viewBox="0 0 384 512">
+                            <path fill="red" d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z"/>
+                        </svg>
+                    </span>
+                    <div class="input-box">
+                        <input type="text" class="form-input" id="newTitle" placeholder="Title..." autocomplete="off">
+                    </div>
+                    <div class="input-box">
+                        <textarea class="form-input" id="newDetails" placeholder="Details..."></textarea>
+                    </div>
+                    <button class="btn">Save</button>
+
+                </form>
+            </div>
+        </main>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+</body>
+</html>
